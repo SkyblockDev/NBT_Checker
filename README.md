@@ -2,6 +2,7 @@
 # NBT Checker
 
 Check your item NBT data!
+Check the releases at [Releases tab](https://github.com/SkyblockDev/NBT_Checker/releases/tag/1.0.0)
 
 ## Features
 
